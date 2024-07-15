@@ -6,6 +6,6 @@ RUN dotnet restore tests/UnitTests/UnitTests.csproj
 RUN dotnet test tests/UnitTests/UnitTests.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
 
 ENV PATH="${PATH}:/root/.dotnet/tools"
-RUN dotnet sonarscanner begin /k:"Teste" /d:sonar.host.url="http://127.0.0.1:9000" /d:sonar.login="sqp_edfe2d8d5aee79ac983d8ce7b920fb3cfb6b7b56"
+RUN dotnet sonarscanner begin /k:"TaskManagementSystem" /d:sonar.host.url="http://127.0.0.1:9000" /d:sonar.login="sqp_ec850152febc11bc6904444a4ffacacbadbfc683"
 RUN dotnet build
-RUN dotnet sonarscanner end /d:sonar.login="sqp_edfe2d8d5aee79ac983d8ce7b920fb3cfb6b7b56"
+RUN dotnet sonarscanner end /d:sonar.login="sqp_ec850152febc11bc6904444a4ffacacbadbfc683"
