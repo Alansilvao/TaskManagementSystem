@@ -1,0 +1,14 @@
+﻿C:\repositorio\TaskManagementSystem\src\Application\Commons\Interfaces\IAuthenticatedUseCases.cs
+C:\repositorio\TaskManagementSystem\src\Application\Commons\Interfaces\IUseCase.cs
+C:\repositorio\TaskManagementSystem\src\Application\Dtos\AuthenticateUserDto.cs
+C:\repositorio\TaskManagementSystem\src\Application\Dtos\CategoryCreateDto.cs
+C:\repositorio\TaskManagementSystem\src\Application\Dtos\RegisterUserDto.cs
+C:\repositorio\TaskManagementSystem\src\Application\Dtos\TaskCreateDto.cs
+C:\repositorio\TaskManagementSystem\src\Application\Exceptions\HttpStatusException.cs
+C:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ICategoryRepository.cs
+C:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ITaskRepository.cs
+C:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\IUserRepository.cs
+C:\repositorio\TaskManagementSystem\src\Application\Services\CategoryService.cs
+C:\repositorio\TaskManagementSystem\src\Application\Services\TaskService.cs
+C:\repositorio\TaskManagementSystem\src\Application\Services\UserService.cs
+C:\repositorio\TaskManagementSystem\src\Application\UseCases\CreateUser.cs

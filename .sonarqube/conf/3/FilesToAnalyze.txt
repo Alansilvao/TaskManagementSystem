@@ -1,0 +1,16 @@
+﻿C:\repositorio\TaskManagementSystem\src\Infra\Database\Config\DatabaseOptions.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Context\ApplicationDbContext.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Context\ApplicationDbContextFactory.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Migrations\20231203143122_Initial.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Migrations\20231203143122_Initial.Designer.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\AccountModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\AssetModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\ClientModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\InvestmentsHistoryModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\PortfolioModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\models\TransactionHistoryModel.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Repositories\CategoryRepository.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Repositories\TaskRepository.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Repositories\UserRepository.cs
+C:\repositorio\TaskManagementSystem\src\Infra\Database\Seeds\AssetsDemo.cs

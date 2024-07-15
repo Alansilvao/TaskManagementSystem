@@ -1,0 +1,11 @@
+C:\repositorio\TaskManagementSystem\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\repositorio\TaskManagementSystem\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\repositorio\TaskManagementSystem\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\repositorio\TaskManagementSystem\src\Domain\obj\Debug\net7.0\ref\Domain.dll

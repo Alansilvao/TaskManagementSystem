@@ -1,0 +1,12 @@
+V
+MC:\repositorio\TaskManagementSystem\src\API\Controllers\CategoryController.csutf-8R
+IC:\repositorio\TaskManagementSystem\src\API\Controllers\TaskController.csutf-8R
+IC:\repositorio\TaskManagementSystem\src\API\Controllers\UserController.csutf-8[
+RC:\repositorio\TaskManagementSystem\src\API\Extensions\InfrastructureExtensions.csutf-8^
+UC:\repositorio\TaskManagementSystem\src\API\Extensions\ServiceCollectionExtensions.csutf-8Y
+PC:\repositorio\TaskManagementSystem\src\API\OptionsSetup\DatabaseOptionsSetup.csutf-8?
+6C:\repositorio\TaskManagementSystem\src\API\Program.csutf-8]
+RC:\repositorio\TaskManagementSystem\src\API\obj\Debug\net7.0\API.GlobalUsings.g.csutf-8v
+kC:\repositorio\TaskManagementSystem\src\API\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8[
+PC:\repositorio\TaskManagementSystem\src\API\obj\Debug\net7.0\API.AssemblyInfo.csutf-8n
+cC:\repositorio\TaskManagementSystem\src\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.csutf-8

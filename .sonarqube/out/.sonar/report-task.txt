@@ -1,0 +1,6 @@
+projectKey=TaskManagementSystem
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=TaskManagementSystem
+ceTaskId=AZCzwMfc3-nZJnEKUIgn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZCzwMfc3-nZJnEKUIgn

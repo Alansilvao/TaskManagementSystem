@@ -1,0 +1,30 @@
+Product projects
+---------------------------------------
+C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj
+C:\repositorio\TaskManagementSystem\src\Application\Application.csproj
+C:\repositorio\TaskManagementSystem\src\Infra\Infra.csproj
+C:\repositorio\TaskManagementSystem\src\API\API.csproj
+
+
+Test projects
+---------------------------------------
+C:\repositorio\TaskManagementSystem\tests\UnitTests\UnitTests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj
+C:\repositorio\TaskManagementSystem\src\Application\Application.csproj
+C:\repositorio\TaskManagementSystem\tests\UnitTests\UnitTests.csproj
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
