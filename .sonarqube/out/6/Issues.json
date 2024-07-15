@@ -12,48 +12,6 @@
       },
       "results": [
         {
-          "ruleId": "CS4014",
-          "level": "warning",
-          "message": "Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/UseCases/CreateUser.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 14,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/UseCases/CreateUser.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 27,
-                  "endLine": 16,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "CS8618",
           "level": "warning",
           "message": "Non-nullable property 'Title' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
@@ -124,6 +82,74 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 23,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 23,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
           "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
           "locations": [
             {
@@ -258,31 +284,18 @@
           }
         },
         {
-          "ruleId": "CS8618",
+          "ruleId": "CS4014",
           "level": "warning",
-          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "message": "Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/UseCases/CreateUser.cs",
                 "region": {
-                  "startLine": 5,
-                  "startColumn": 23,
-                  "endLine": 5,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 23,
-                  "endLine": 5,
-                  "endColumn": 28
+                  "startLine": 25,
+                  "startColumn": 14,
+                  "endLine": 25,
+                  "endColumn": 48
                 }
               }
             }
@@ -292,31 +305,18 @@
           }
         },
         {
-          "ruleId": "CS8618",
+          "ruleId": "CS1998",
           "level": "warning",
-          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
+                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/UseCases/CreateUser.cs",
                 "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Application/Dtos/AuthenticateUserDto.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 23,
-                  "endLine": 6,
-                  "endColumn": 31
+                  "startLine": 16,
+                  "startColumn": 27,
+                  "endLine": 16,
+                  "endColumn": 39
                 }
               }
             }

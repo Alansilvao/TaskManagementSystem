@@ -1,46 +1,50 @@
-u
-CC:\repositorio\TaskManagementSystem\src\Domain\Entities\Category.cs
+m
+;C:\git\TaskManagementSystem\src\Domain\Entities\Category.cs
 
- 
+ 
 
- 
+ 
 
- 
-
-" '∫
-@C:\repositorio\TaskManagementSystem\src\Domain\Entities\Tasks.cs
-
- 
-
- 
-
- 
-
- !
-
- 
-
-		 
+		 
 
 
 
- 
+" '≤
+8C:\git\TaskManagementSystem\src\Domain\Entities\Tasks.cs
 
-  
+ 
 
- 
+ 
 
- â
-?C:\repositorio\TaskManagementSystem\src\Domain\Entities\User.cs
+		 
 
- 
+
+
+ !
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+  
 
-		" '
+ 
+
+ Å
+7C:\git\TaskManagementSystem\src\Domain\Entities\User.cs
+
+ 
+
+ 
+
+		 
+
+
+
+ 
+
+ 
+
+" '

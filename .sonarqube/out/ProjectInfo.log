@@ -1,13 +1,16 @@
 Product projects
 ---------------------------------------
+C:\git\TaskManagementSystem\src\Domain\Domain.csproj
+C:\git\TaskManagementSystem\src\Application\Application.csproj
+C:\git\TaskManagementSystem\src\Infra\Infra.csproj
+C:\git\TaskManagementSystem\src\API\API.csproj
 C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj
 C:\repositorio\TaskManagementSystem\src\Application\Application.csproj
-C:\repositorio\TaskManagementSystem\src\Infra\Infra.csproj
-C:\repositorio\TaskManagementSystem\src\API\API.csproj
 
 
 Test projects
 ---------------------------------------
+C:\git\TaskManagementSystem\tests\UnitTests\UnitTests.csproj
 C:\repositorio\TaskManagementSystem\tests\UnitTests\UnitTests.csproj
 
 
@@ -18,9 +21,7 @@ Invalid projects
 
 Skipped projects
 ---------------------------------------
-C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj
-C:\repositorio\TaskManagementSystem\src\Application\Application.csproj
-C:\repositorio\TaskManagementSystem\tests\UnitTests\UnitTests.csproj
+{none}
 
 
 Excluded projects

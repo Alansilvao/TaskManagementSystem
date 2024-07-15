@@ -1,73 +1,74 @@
- 
-`C:\repositorio\TaskManagementSystem\src\Application\Commons\Interfaces\IAuthenticatedUseCases.cs
+m
+GC:\git\TaskManagementSystem\src\Application\Dtos\AuthenticateUserDto.cs
 
- '
-+ 3 
-5 > 
+ $
 
- 
+ 
 
- 
+		 k
+EC:\git\TaskManagementSystem\src\Application\Dtos\CategoryCreateDto.cs
 
- !
+ "
 
-5 F∞
-RC:\repositorio\TaskManagementSystem\src\Application\Commons\Interfaces\IUseCase.cs
+ 
 
- 
- % 
-' 0 
+		 u
+CC:\git\TaskManagementSystem\src\Application\Dtos\RegisterUserDto.cs
 
- 
+  
 
- 
+ 
 
-' 8u
-OC:\repositorio\TaskManagementSystem\src\Application\Dtos\AuthenticateUserDto.cs
-
- $
-
- 
-
- g
-MC:\repositorio\TaskManagementSystem\src\Application\Dtos\CategoryCreateDto.cs
-
- "
-
- }
-KC:\repositorio\TaskManagementSystem\src\Application\Dtos\RegisterUserDto.cs
-
-  
-
- 
-
- 
-
- ü
-IC:\repositorio\TaskManagementSystem\src\Application\Dtos\TaskCreateDto.cs
-
- 
-
- 
-
- !
-
- 
-
- 
-
-		 
+		 
 
 
 
- •
-UC:\repositorio\TaskManagementSystem\src\Application\Exceptions\HttpStatusException.cs
+ ó
+AC:\git\TaskManagementSystem\src\Application\Dtos\TaskCreateDto.cs
 
-  
- 		 
-  *		 
-3 :C J‹
-bC:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ICategoryRepository.cs
+ 
+
+ 
+
+		 !
+
+
+
+ 
+
+ 
+
+ 
+
+ ç
+CC:\git\TaskManagementSystem\src\Application\Dtos\TaskGenerateDto.cs
+
+  
+
+ 
+
+		 
+
+
+
+ 
+
+ 
+
+ !ù
+MC:\git\TaskManagementSystem\src\Application\Exceptions\HttpStatusException.cs
+
+  
+  
+
+
+  * 
+
+
+3 :
+
+C J‘
+ZC:\git\TaskManagementSystem\src\Application\Interfaces\Repositories\ICategoryRepository.cs
 
  (
 
@@ -91,18 +92,22 @@ bC:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ICa
 
   
 
-% '‰
-^C:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ITaskRepository.cs
+% '‹
+VC:\git\TaskManagementSystem\src\Application\Interfaces\Repositories\ITaskRepository.cs
 
- $
+ #
 
- $
+ $
 
-) +
+) +
 
-		 
+ 
 
-		  $
+  $
+
+		 
+
+		# '
 
 
 
@@ -110,16 +115,12 @@ bC:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ICa
 
 
 
-# '
+! #
 
- 
+! 6
 
-! #
-
-! 6
-
-; A¥
-^C:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\IUserRepository.cs
+; A¨
+VC:\git\TaskManagementSystem\src\Application\Interfaces\Repositories\IUserRepository.cs
 
  $
 
@@ -133,8 +134,28 @@ bC:\repositorio\TaskManagementSystem\src\Application\Interfaces\Repositories\ICa
 
 		 &
 
-		. 3œ
-OC:\repositorio\TaskManagementSystem\src\Application\Services\CategoryService.cs
+		. 3a
+SC:\git\TaskManagementSystem\src\Application\Interfaces\UseCases\ICategoryUseCase.cs
+
+ %\
+NC:\git\TaskManagementSystem\src\Application\Interfaces\UseCases\ICreateUser.cs
+
+  ]
+OC:\git\TaskManagementSystem\src\Application\Interfaces\UseCases\ITaskUseCase.cs
+
+ !©
+KC:\git\TaskManagementSystem\src\Application\Interfaces\UseCases\IUseCase.cs
+
+ 
+! ) 
++ 4 
+
+ $
+
+ 
+
+1 B«
+GC:\git\TaskManagementSystem\src\Application\Services\CategoryService.cs
 
   F
 - @  , , %   %%% %
@@ -154,25 +175,27 @@ OC:\repositorio\TaskManagementSystem\src\Application\Services\CategoryService.cs
 7 ?  : B
 
 ## -
-##2 4%%: <µ
-KC:\repositorio\TaskManagementSystem\src\Application\Services\TaskService.cs
+##2 4%%: <≠
+CC:\git\TaskManagementSystem\src\Application\Services\TaskService.cs
 
- <
-		) 8  ( ! !!! !
-+ 9 ,
+ <
+
+
+( 7  ( ! !"" !
++ 9 ,
 
-. C
-H N? E
+. C
+H N? E
 
- )
-0 4/ 3
+ )
+0 4/ 3
 
- )
-0 42 6
+ )
+0 42 6
 
- )
-. 0!!2 4ø
-KC:\repositorio\TaskManagementSystem\src\Application\Services\UserService.cs
+   )
+  . 0""2 4∑
+CC:\git\TaskManagementSystem\src\Application\Services\UserService.cs
 
  <
 ) 8 % 4 !$$ ,// (
@@ -193,15 +216,45 @@ KC:\repositorio\TaskManagementSystem\src\Application\Services\UserService.cs
 $$ %% %%  $** 
 
 --  0
---5 7//: <Ú
-JC:\repositorio\TaskManagementSystem\src\Application\UseCases\CreateUser.cs
+--5 7//: <˜
+GC:\git\TaskManagementSystem\src\Application\UseCases\CategoryUseCase.cs
 
- 
-		) 8  
-* 8 ,
+
+
+  (
+) 1  & 
+/ 6 
 
- &
-. 6 
-? G #
-M O 
- * .
+$ 0(
+C J < C "
+
+^ o
+ 0 8   ﬁ
+BC:\git\TaskManagementSystem\src\Application\UseCases\CreateUser.cs
+
+ 
+% 1  )
+& 1 &
+
+  ,(
+= D< CJ QY `
+
+X i
+  û
+CC:\git\TaskManagementSystem\src\Application\UseCases\TaskUseCase.cs
+
+
+
+ <
+% -  %$$ 77 @@ 
+' . 
+
+. :»
+K R < C  #" ) %  " )!!! ("" $** ..  // #00" )11 %22" )33! (44 $>> @@/ 6
+
+f w
+ $$/ 3&& !
+%% && (( 
+,, 77/ 399 !
+88 99 ;; 
+BB DD 

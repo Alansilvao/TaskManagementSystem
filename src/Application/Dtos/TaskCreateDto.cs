@@ -1,5 +1,8 @@
-﻿namespace Application.Dtos
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace Application.Dtos
 {
+    [ExcludeFromCodeCoverage]
     public class TaskCreateDto
     {
         public string Title { get; set; }

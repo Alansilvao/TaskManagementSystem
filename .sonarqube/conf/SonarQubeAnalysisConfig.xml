@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>C:\repositorio\TaskManagementSystem\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>C:\repositorio\TaskManagementSystem\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>C:\repositorio\TaskManagementSystem\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>C:\repositorio\TaskManagementSystem</SonarScannerWorkingDirectory>
+  <SonarConfigDir>C:\git\TaskManagementSystem\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>C:\git\TaskManagementSystem\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>C:\git\TaskManagementSystem\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>C:\git\TaskManagementSystem</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>10.3.0.82913</SonarQubeVersion>
@@ -13,7 +13,7 @@
     <ConfigSetting Id="TfsUri" />
     <ConfigSetting Id="VsCoverageConverterToolPath" />
     <ConfigSetting Id="UnchangedFilesPath" />
-    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="C:\repositorio\TaskManagementSystem" />
+    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="C:\git\TaskManagementSystem" />
     <ConfigSetting Id="settings.file.path" Value="C:\Users\user\.dotnet\tools\.store\dotnet-sonarscanner\6.0.0\dotnet-sonarscanner\6.0.0\tools\netcoreapp3.1\any\SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
@@ -138,8 +138,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>C:\git\TaskManagementSystem\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>C:\git\TaskManagementSystem\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="9.13.0.79967" StaticResourceName="SonarAnalyzer-9.13.0.79967.zip">
           <AssemblyPaths>
@@ -161,13 +161,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\repositorio\TaskManagementSystem\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>C:\git\TaskManagementSystem\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>C:\git\TaskManagementSystem\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>C:\git\TaskManagementSystem\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="9.13.0.79967" StaticResourceName="SonarAnalyzer-9.13.0.79967.zip">
           <AssemblyPaths>
@@ -189,7 +189,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\repositorio\TaskManagementSystem\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>C:\git\TaskManagementSystem\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

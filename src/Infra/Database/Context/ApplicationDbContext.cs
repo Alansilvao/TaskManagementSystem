@@ -1,9 +1,11 @@
 
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Infra.Database.Context;
 
+[ExcludeFromCodeCoverage]
 public class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
@@ -18,7 +20,6 @@ public class ApplicationDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
-        // Configurações para a entidade User
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(e => e.Id);
@@ -36,7 +37,6 @@ public class ApplicationDbContext : DbContext
                   .HasForeignKey(e => e.UserId);
         });
 
-        // Configurações para a entidade Category
         modelBuilder.Entity<Category>(entity =>
         {
             entity.HasKey(e => e.Id);
@@ -48,10 +48,9 @@ public class ApplicationDbContext : DbContext
                   .HasForeignKey(e => e.CategoryId);
         });
 
-        // Configurações para a entidade Task
         modelBuilder.Entity<Tasks>(entity =>
         {
-            entity.HasKey(e => e.Id); // Corrigido para usar 'Id' como chave primária
+            entity.HasKey(e => e.Id);
             entity.Property(e => e.Title)
                   .IsRequired()
                   .HasMaxLength(100);

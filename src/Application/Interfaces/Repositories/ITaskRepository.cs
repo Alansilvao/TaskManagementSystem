@@ -1,9 +1,8 @@
-﻿using Domain;
-using Domain.Entities;
+﻿using Domain.Entities;
 
 namespace Application.Interface
 {
-    public interface ITaskRepository
+   public interface ITaskRepository
     {
         Task<Tasks> GetTaskByIdAsync(int id);
         Task AddTaskAsync(Tasks task);

@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 27
                 }
               }
@@ -31,11 +31,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 27
                 }
               }
@@ -52,11 +52,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 28
                 }
               }
@@ -65,11 +65,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 28
                 }
               }
@@ -86,11 +86,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 8,
+                  "startLine": 11,
                   "startColumn": 23,
-                  "endLine": 8,
+                  "endLine": 11,
                   "endColumn": 31
                 }
               }
@@ -99,11 +99,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 8,
+                  "startLine": 11,
                   "startColumn": 23,
-                  "endLine": 8,
+                  "endLine": 11,
                   "endColumn": 31
                 }
               }
@@ -120,11 +120,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 9,
+                  "startLine": 12,
                   "startColumn": 35,
-                  "endLine": 9,
+                  "endLine": 12,
                   "endColumn": 40
                 }
               }
@@ -133,11 +133,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/User.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/User.cs",
                 "region": {
-                  "startLine": 9,
+                  "startLine": 12,
                   "startColumn": 35,
-                  "endLine": 9,
+                  "endLine": 12,
                   "endColumn": 40
                 }
               }
@@ -154,11 +154,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 28
                 }
               }
@@ -167,11 +167,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 28
                 }
               }
@@ -188,11 +188,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 34
                 }
               }
@@ -201,11 +201,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 23,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 34
                 }
               }
@@ -222,11 +222,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 14,
                   "startColumn": 25,
-                  "endLine": 11,
+                  "endLine": 14,
                   "endColumn": 33
                 }
               }
@@ -235,11 +235,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 14,
                   "startColumn": 25,
-                  "endLine": 11,
+                  "endLine": 14,
                   "endColumn": 33
                 }
               }
@@ -256,11 +256,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 13,
+                  "startLine": 16,
                   "startColumn": 21,
-                  "endLine": 13,
+                  "endLine": 16,
                   "endColumn": 25
                 }
               }
@@ -269,11 +269,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Tasks.cs",
                 "region": {
-                  "startLine": 13,
+                  "startLine": 16,
                   "startColumn": 21,
-                  "endLine": 13,
+                  "endLine": 16,
                   "endColumn": 25
                 }
               }
@@ -290,11 +290,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Category.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Category.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 27
                 }
               }
@@ -303,11 +303,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Category.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Category.cs",
                 "region": {
-                  "startLine": 6,
+                  "startLine": 9,
                   "startColumn": 23,
-                  "endLine": 6,
+                  "endLine": 9,
                   "endColumn": 27
                 }
               }
@@ -324,11 +324,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Category.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Category.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 35,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 40
                 }
               }
@@ -337,11 +337,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/repositorio/TaskManagementSystem/src/Domain/Entities/Category.cs",
+                "uri": "file:///C:/git/TaskManagementSystem/src/Domain/Entities/Category.cs",
                 "region": {
-                  "startLine": 7,
+                  "startLine": 10,
                   "startColumn": 35,
-                  "endLine": 7,
+                  "endLine": 10,
                   "endColumn": 40
                 }
               }

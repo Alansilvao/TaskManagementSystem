@@ -1,28 +1,27 @@
-﻿using Application.Interface;
+﻿using Application.Dtos;
+using Application.Interfaces.UseCases;
+using Application.Services;
 using Domain.Entities;
+using System.Diagnostics.CodeAnalysis;
 
 
 namespace Application.UseCases
 {
-    public class CreateUser
+    [ExcludeFromCodeCoverage]
+    public class CreateUser :  ICreateUser
     {
-        private readonly IUserRepository _userRepository;
+        private readonly UserService _userService;
 
-        public CreateUser(IUserRepository userRepository)
+        public CreateUser(UserService userService)
         {
-            _userRepository = userRepository;
+            _userService = userService;
         }
-
-        public async Task ExecuteAsync(string username, string password, int id)
+        public async Task<User> ExecuteAsync(RegisterUserDto request, CancellationToken cancellationToken = default)
         {
-            var user = new User
-            {
-                Id = id,
-                Name = username,
-                Password = password
-            };
+            var user = await _userService.RegisterUserAsync(request.Name, request.Email, request.Password);
 
-             _userRepository.AddUserAsync(user);
+            return user;
+
         }
     }
 }

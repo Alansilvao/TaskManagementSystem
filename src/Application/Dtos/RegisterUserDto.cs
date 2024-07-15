@@ -1,5 +1,8 @@
-﻿namespace Application.Dtos
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace Application.Dtos
 {
+    [ExcludeFromCodeCoverage]
     public class RegisterUserDto
     {
         public string Name { get; set; }

@@ -3,15 +3,15 @@
   <ProjectName>Domain</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>2a77874c-5955-4586-b64d-5b5127a999aa</ProjectGuid>
+  <ProjectGuid>140ebc7c-4a4f-4520-b7bd-ee09b3b0e3ba</ProjectGuid>
   <FullPath>C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="C:\repositorio\TaskManagementSystem\.sonarqube\conf\5\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\git\TaskManagementSystem\.sonarqube\conf\5\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\repositorio\TaskManagementSystem\.sonarqube\out\5\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\repositorio\TaskManagementSystem\.sonarqube\out\5</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\git\TaskManagementSystem\.sonarqube\out\5\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\git\TaskManagementSystem\.sonarqube\out\5</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

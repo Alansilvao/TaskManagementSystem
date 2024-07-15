@@ -24,7 +24,7 @@ namespace Application.Services
             {
                 Name = name,
                 Email = email,
-                Password = password // Note: In a real-world application, make sure to hash the password.
+                Password = password
             };
 
             await _userRepository.AddUserAsync(user);
@@ -34,7 +34,7 @@ namespace Application.Services
         public async Task<User> AuthenticateUserAsync(string email, string password)
         {
             var user = await _userRepository.GetUserByEmailAsync(email);
-            if (user == null || user.Password != password) // Note: In a real-world application, use a secure password comparison method.
+            if (user == null || user.Password != password) 
             {
                 return null;
             }

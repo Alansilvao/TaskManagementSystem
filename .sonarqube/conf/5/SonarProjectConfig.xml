@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <AnalysisConfigPath>C:\git\TaskManagementSystem\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
   <ProjectPath>C:\repositorio\TaskManagementSystem\src\Domain\Domain.csproj</ProjectPath>
-  <FilesToAnalyzePath>C:\repositorio\TaskManagementSystem\.sonarqube\conf\5\FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>C:\repositorio\TaskManagementSystem\.sonarqube\out\5</OutPath>
+  <FilesToAnalyzePath>C:\git\TaskManagementSystem\.sonarqube\conf\5\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>C:\git\TaskManagementSystem\.sonarqube\out\5</OutPath>
   <ProjectType>Product</ProjectType>
   <TargetFramework>net7.0</TargetFramework>
 </SonarProjectConfig>

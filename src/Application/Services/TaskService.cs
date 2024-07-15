@@ -1,12 +1,13 @@
 ﻿
 using Application.Interface;
 using Domain.Entities;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Domain.Service
-{
+{   
     public class TaskService
     {
-        private readonly ITaskRepository _taskRepository;
+        public readonly ITaskRepository _taskRepository;
 
         public TaskService(ITaskRepository taskRepository)
         {

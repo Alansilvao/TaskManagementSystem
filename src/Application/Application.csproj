@@ -20,9 +20,4 @@
       <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Dtos\Responses\" />
-      <Folder Include="Interfaces\Services\" />
-    </ItemGroup>
-
 </Project>

@@ -1,25 +1,29 @@
 ﻿using Application.Dtos;
-using Application.Services;
-using Domain.Entities;
+using Application.Interfaces.UseCases;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics.CodeAnalysis;
 
 namespace API.Controllers
 {
+    [ExcludeFromCodeCoverage]
     [ApiController]
     [Route("api/[controller]")]
     public class CategoryController : ControllerBase
     {
-        private readonly CategoryService _categoryService;
-
-        public CategoryController(CategoryService categoryService)
+        private readonly ICategoryUseCase _useCase;
+        public CategoryController(ICategoryUseCase useCase)
         {
-            _categoryService = categoryService;
+            _useCase = useCase;
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCategoryById(int id)
         {
-            var category = await _categoryService.GetCategoryByIdAsync(id);
+            var category = await _useCase.ExecuteAsync(new CategoryCreateDto
+            {
+                Id = id
+            });
+
             if (category == null)
             {
                 return NotFound();
@@ -31,12 +35,7 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> AddCategory([FromBody] CategoryCreateDto categoryDto)
         {
-            var category = new Category
-            {
-                Name = categoryDto.Name
-            };
-
-            await _categoryService.AddCategoryAsync(category);
+            var category =   await _useCase.ExecuteAsync(categoryDto);
             return CreatedAtAction(nameof(GetCategoryById), new { id = category.Id }, category);
         }
     }

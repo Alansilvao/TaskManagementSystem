@@ -1,56 +1,64 @@
-©
-MC:\repositorio\TaskManagementSystem\src\API\Controllers\CategoryController.cs
+—
+EC:\git\TaskManagementSystem\src\API\Controllers\CategoryController.cs
 
-
-
- #(
-) 9 ! 1'' "
-2 A .
+ #(
+* 2 ! )&&# +
+3 : 
 
 ) 8
-= ?G I
-   
+= ? 
+     
 
-  ) 4
-  R ]$$ "(
-"" ''4 <((G O((V ^ƒ
-IC:\repositorio\TaskManagementSystem\src\API\Controllers\TaskController.cs
+$$) 4
+$$R ]&&9 D
+&& ''G O''V ^Í
+AC:\git\TaskManagementSystem\src\API\Controllers\TaskController.cs
 
-
-
- <
-% 1  *'' 99 @@ 
-* 5 &
+ 
 
-) 1
-6 <A G
-  
+% 1<
+& .    &55 &JJ &[[ &
++ 2 
 
-) 3F
-M T    %!! !"" %## $$$  (
- ''/ 3((D H((S W
+) 1
+6 <4 :
+   4 8
+   !! 
 
-,,) 3
-,,8 :00 F
-,,U \11 22 %33 !44 %55 $66  
-.. 99/ 3
+%%) 3F
+%%M T,, #--" ).. %//" )00! (11 $(
+'' 554 866D H66X \
 
->>) 3
->>8 :@@/ 1¯
-IC:\repositorio\TaskManagementSystem\src\API\Controllers\UserController.cs
+55 
 
-		 (
-% 1  ) )
-* 5 &
+::) 3
 
-) 1(
-M P< ?F IQ T
-  
+::8 :F
+::U \AA #BB" )CC %DD" )EE! (FF $
+<< JJ4 8
 
-) 5
-U X@ CK N
-     ¨
-RC:\repositorio\TaskManagementSystem\src\API\Extensions\InfrastructureExtensions.cs
+JJ 
+
+PP) 3
+PP8 :WW 
+RR [[4 8
+
+[[ ÿ
+AC:\git\TaskManagementSystem\src\API\Controllers\UserController.cs
+
+ (
+% 0  ( (
+* 4 $
+
+) 1
+M P6 9
+  
+
+) 5
+
+U X
+  ""  
+JC:\git\TaskManagementSystem\src\API\Extensions\InfrastructureExtensions.cs
 
 
 
@@ -70,34 +78,22 @@ RC:\repositorio\TaskManagementSystem\src\API\Extensions\InfrastructureExtensions
 
  '
 @ H 
-“
-UC:\repositorio\TaskManagementSystem\src\API\Extensions\ServiceCollectionExtensions.cs
+©
+MC:\git\TaskManagementSystem\src\API\Extensions\ServiceCollectionExtensions.cs
 
- /
+ /
 
- 
+ "(
+; C   
 
-8 @
+ "(
+; C   
 
- (
-8 @"" ## $$ 
-
-'' (
-(( #** 
-(
-((4 A11 !22 #44 ,
-.. // ¶
-PC:\repositorio\TaskManagementSystem\src\API\OptionsSetup\DatabaseOptionsSetup.cs
-
- !
-! /  
-
-
-, 9  
-
- 
-' .6 =ô
-6C:\repositorio\TaskManagementSystem\src\API\Program.cs`
+ +
+! )   (
+: G''& 3((( 5**4 A
+$$ %% ì
+.C:\git\TaskManagementSystem\src\API\Program.cs`
   & - 		 
 
     # *

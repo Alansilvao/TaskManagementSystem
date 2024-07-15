@@ -2,9 +2,11 @@
 using Domain.Entities;
 using Infra.Database.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Infra.Database.Repositories
 {
+    [ExcludeFromCodeCoverage]
     public class TaskRepository : ITaskRepository
     {
         private readonly ApplicationDbContext _context;
